@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Pulse ECG Capture & Report",
+  "short_name": "Pulse ECG",
+  "description": "Capture an ECG image and export a report.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7fa",
+  "theme_color": "#087f82",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
+
